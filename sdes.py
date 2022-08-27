@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Jacob Maurer
-CPSC 370 10am
-jmaurer6@live.esu.edu
-Nov 16 21
-
 This program implements sdes encrytion and decryption and allows CBC mode to be used with these methods
 """
 def xor(x,y):
